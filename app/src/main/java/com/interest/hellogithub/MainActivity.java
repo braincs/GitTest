@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //hello github
-        System.out.println("this is local code need to be merged");
+        System.out.println("this is remote code ");
     }
 }
