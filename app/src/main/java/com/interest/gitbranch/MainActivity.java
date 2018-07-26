@@ -1,4 +1,5 @@
-package com.interest.hellogithub;
+
+package com.interest.gitbranch;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //hello github
-        System.out.println("this is remote code ");
+        System.out.println("this is local branch need to be merged to master branch");
     }
 }

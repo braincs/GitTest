@@ -1,4 +1,4 @@
-package com.interest.hellogithub;
+package com.interest.gitbranch;
 
 import org.junit.Test;
 
