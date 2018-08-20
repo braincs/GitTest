@@ -12,5 +12,11 @@ public class MainActivity extends AppCompatActivity {
 
         //hello github
         System.out.println("this is remote code ");
+
+        //add some funciton
+        System.out.println("a new feature");
+        int res = NewFunction.add(1, 2);
+        System.out.println("result = " + res);
+
     }
 }
